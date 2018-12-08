@@ -1,0 +1,26 @@
+/*
+	cdCss functions
+	--------------------
+*/
+
+@mixin middle() {
+	&:after {
+    content: '';
+    height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    }
+}
+
+@mixin clear() {
+	&:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+}
+
+$orange: #C59368;
+$gray-blue: #5D6E7F;
+$border-gray: #575A5F;
+$bg-gray: #30343A;

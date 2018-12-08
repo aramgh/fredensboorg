@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="28px" viewBox="0 0 34 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_epost</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FrontpageV6" transform="translate(-913.000000, -4677.000000)" fill="#30343A" fill-rule="nonzero">
+            <g id="Group-17" transform="translate(0.000000, 3614.000000)">
+                <g id="Group-14" transform="translate(408.000000, 946.000000)">
+                    <g id="Group-12" transform="translate(0.000000, 101.000000)">
+                        <g id="Group-11" transform="translate(492.000000, 0.000000)">
+                            <g id="ic_email_black_24px-(1)" transform="translate(13.333333, 16.666667)">
+                                <path d="M30,0 L3.33333333,0 C1.5,0 0.0166666667,1.5 0.0166666667,3.33333333 L0,23.3333333 C0,25.1666667 1.5,26.6666667 3.33333333,26.6666667 L30,26.6666667 C31.8333333,26.6666667 33.3333333,25.1666667 33.3333333,23.3333333 L33.3333333,3.33333333 C33.3333333,1.5 31.8333333,0 30,0 Z M30,6.66666667 L16.6666667,15 L3.33333333,6.66666667 L3.33333333,3.33333333 L16.6666667,11.6666667 L30,3.33333333 L30,6.66666667 Z" id="ico_epost"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

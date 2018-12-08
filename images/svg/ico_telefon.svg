@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="40px" viewBox="0 0 26 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ico_telefon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FrontpageV6" transform="translate(-687.000000, -4671.000000)" fill="#30343A">
+            <g id="Group-17" transform="translate(0.000000, 3614.000000)">
+                <g id="Group-14" transform="translate(408.000000, 946.000000)">
+                    <g id="Group-12" transform="translate(0.000000, 101.000000)">
+                        <g id="Group-9" transform="translate(262.000000, 0.000000)">
+                            <path d="M20.952381,42.7272727 L39.047619,42.7272727 L39.047619,15.4545455 L20.952381,15.4545455 L20.952381,42.7272727 Z M30,48.1818182 C29.0011429,48.1818182 28.1904762,47.3690909 28.1904762,46.3636364 C28.1904762,45.3581818 29.0011429,44.5454545 30,44.5454545 C30.9988571,44.5454545 31.8095238,45.3581818 31.8095238,46.3636364 C31.8095238,47.3690909 30.9988571,48.1818182 30,48.1818182 Z M39.047619,10 L20.952381,10 C18.9619048,10 17.3333333,11.6363636 17.3333333,13.6363636 L17.3333333,46.3636364 C17.3333333,48.3636364 18.9619048,50 20.952381,50 L39.047619,50 C41.0380952,50 42.6666667,48.3636364 42.6666667,46.3636364 L42.6666667,13.6363636 C42.6666667,11.6363636 41.0380952,10 39.047619,10 Z" id="ico_telefon"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
